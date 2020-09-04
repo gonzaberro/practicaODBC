@@ -1,0 +1,41 @@
+
+.headerCustomers{   
+    padding:10px;
+    background:#387cf7 !important;
+    color:#fff;
+    text-align:center;
+    border:1px solid #ced4da;
+   
+}
+.dataRow{
+    padding:5px;
+    text-align: center;
+    border-bottom: 1px solid #ced4da;
+}
+.infoCustomer:hover{
+    background-color: #eee;
+    cursor:pointer
+}
+.containerTablaClientes{
+    padding:30px;
+    height: 77vh;
+    max-height: 77vh;
+    overflow-y:auto;
+}
+.containerHeader{
+    height: 15vh;
+    padding:30px;
+}
+
+.fullWidth{
+  
+    width: 100% !important;
+}
+.checkBox{
+    width:20px;
+    height: 20px;
+   
+}
+.containerCheckBox{
+    margin-top:35px;
+}
